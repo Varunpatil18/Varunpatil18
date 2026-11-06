@@ -12,7 +12,7 @@ Engineering student focused on modern software engineering, data-driven systems,
 ---
 
 ### 💻 Tech Stack & Tooling
-* Languages: C, C++ and so more (in progress)
+* Languages: C, C++, DSA, Html, Css, Javascript, Python and many more in (progress)
 * Core Domains: Data Structures & Algorithms, Object-Oriented Design, File & Database Systems
 * Tools & Platforms: Git, GitHub, VS Code, Linux / Terminal Environments
 
